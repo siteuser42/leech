@@ -1,0 +1,8 @@
+{
+    "url": "https://wanderinginn.com/table-of-contents/",
+    "title": "The Wandering Inn: Volume 6",
+    "author": "pirateaba",
+    "chapter_selector": ".entry-content > p:nth-of-type(12) > a",
+    "content_selector": ".entry-content",
+	"filter_selector": "a[href*='wanderinginn.com'], a[href*='wanderinginn.wordpress.com']"
+}

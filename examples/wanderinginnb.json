@@ -1,0 +1,8 @@
+{
+    "url": "https://drive.google.com/u/0/uc?id=1dqHp9Ar3tX6JImixvWgM0_7Dp-4RU9MT&export=download",
+    "title": "The Wandering Inn",
+    "author": "pirateaba",
+    "chapter_selector": ".entry-content > p > a",
+    "content_selector": ".entry-content",
+	"filter_selector": "a[href*='wanderinginn.com'], a[href*='wanderinginn.wordpress.com']"
+}
